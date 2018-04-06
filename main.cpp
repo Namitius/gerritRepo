@@ -2,7 +2,9 @@
 
 int main()
 {
-
-std::cout <<"qazwsx" << std::endl;
+//and added this comment
+std::cout <<"hello world" << std::endl;
 
 }
+
+
